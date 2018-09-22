@@ -1,6 +1,6 @@
 #Séance du 15/09/2018
 
-Nous avons vu comment faire une pull requesten bonne et dû forme, à quoi cela nous servira dans le cadre de nos cours et pour plus tard.<br>
+Nous avons vu comment faire une pull request en bonne et due forme, à quoi cela nous servira dans le cadre de nos cours et pour plus tard.
 Une pull request sera créée a chaque fin de cours pour résumer ce qui à été appris pendant la séance. 
 
 
